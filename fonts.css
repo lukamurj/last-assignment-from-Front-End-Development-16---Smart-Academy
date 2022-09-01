@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Montserrat";
+  src: url(../fonts/Montserrat-Medium.ttf);
+}
+@font-face {
+  font-family: "GlacialIndifference-Regular";
+  src: url(../fonts/GlacialIndifference-Regular.ttf),
+    url(../fonts/GlacialIndifference-Regular.woff);
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url(../fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: "GlacialIndifference-Bold";
+  src: url(../fonts/GlacialIndifference-Bold.ttf),
+    url(../fonts/GlacialIndifference-Bold.woff);
+}
